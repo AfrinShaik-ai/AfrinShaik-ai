@@ -2,6 +2,8 @@
 My first Repo👋
 <br>
 Author-Afrin
+<br>
+CPP enthusiast
 
 <!--
 **AfrinShaik-ai/AfrinShaik-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
